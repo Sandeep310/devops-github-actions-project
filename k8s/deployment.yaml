@@ -1,0 +1,19 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: github-actions-app
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      app: github-actions-app
+  template:
+    metadata:
+      labels:
+        app: github-actions-app
+    spec:
+      containers:
+       - name: github-actions-app
+         image: sndeep310/devops-github-actions:v1  
+         ports:
+          - containerPort: 8080
