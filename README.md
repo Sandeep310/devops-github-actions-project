@@ -1,4 +1,5 @@
 # DevOps CI/CD Pipeline using GitHub Actions, Docker, and Kubernetes
+![CI/CD](https://github.com/Sandeep310/devops-github-actions-project/actions/workflows/main.yml/badge.svg)
 
 ## Project Overview
 
@@ -49,6 +50,19 @@ Deploy to Kubernetes
 | Kubernetes | Container Orchestration |
 | Minikube | Local Kubernetes Cluster |
 
+---
+---
+## DevOps Skills Demonstrated
+
+- CI/CD Pipeline Automation
+- Docker Containerization
+- Kubernetes Deployment
+- GitHub Actions Workflow Automation
+- Maven Build Management
+- Docker Hub Integration
+- Kubernetes Service Exposure
+- Troubleshooting & Debugging
+- Infrastructure Automation Basics
 ---
 
 ## Project Structure
@@ -187,10 +201,17 @@ minikube service github-actions-service
 ```
 
 ---
+## Application Output
 
+```text
+GitHub Actions CI/CD Running!
+```
+
+---
 ## Screenshots
 
 ### GitHub Actions Pipeline
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/c61b63ec-bba5-4c38-b6ab-9d1fa8514581" />
 
 
 ### Docker Image in Docker Hub
@@ -219,17 +240,18 @@ minikube service github-actions-service
 
 ## Future Improvements
 
-- Add Helm Charts
-- Implement Prometheus Monitoring
-- Add Grafana Dashboards
-- Integrate SonarQube
-- Add Trivy Security Scanning
-- Deploy on AWS EKS
-- Implement ArgoCD GitOps
+- Implement Helm charts for Kubernetes package management
+- Add Prometheus and Grafana for monitoring and observability
+- Integrate SonarQube for code quality analysis
+- Add Trivy for container security scanning
+- Deploy infrastructure on AWS EKS
+- Implement GitOps workflow using ArgoCD
+- Add automated rollback strategy for failed deployments
+- Configure Horizontal Pod Autoscaling (HPA)
 
 ---
 
 ## Author
 
-Sandeep  
+Jaya Sandeep Gudimetla
 Aspiring DevOps Engineer
