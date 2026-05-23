@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
        - name: github-actions-app
-         image: sndeep310/devops-github-actions:v1  
+         image: sndeep310/devops-github-actions:v3  
          ports:
           - containerPort: 8080
