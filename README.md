@@ -1,5 +1,5 @@
 # DevOps CI/CD Pipeline using GitHub Actions, Docker, and Kubernetes
-![CI/CD](https://github.com/Sandeep310/devops-github-actions-project/actions/workflows/main.yml/badge.svg)
+![CI/CD](https://github.com/Sandeep310/devops-github-actions-project/actions/workflows/main.yaml/badge.svg)
 
 ## Project Overview
 
