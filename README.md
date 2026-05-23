@@ -253,5 +253,5 @@ GitHub Actions CI/CD Running!
 
 ## Author
 
-Jaya Sandeep Gudimetla
-Aspiring DevOps Engineer
+- Jaya Sandeep Gudimetla
+- Aspiring DevOps Engineer
